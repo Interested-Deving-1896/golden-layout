@@ -1,27 +1,75 @@
-# Golden Layout
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# golden-layout
 
-[![NPM version](https://img.shields.io/npm/v/golden-layout)](https://www.npmjs.com/package/golden-layout) [![License](https://img.shields.io/github/license/golden-layout/golden-layout)](https://img.shields.io/github/license/golden-layout/golden-layout)
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/golden-layout)
 
-Golden Layout is a Javascript layout manager which enables you to layout components in a web page and re-arrange them with drag and drop. Its features include:
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-* Native popup windows
-* Touch support
-* Support for application frameworks such as Angular and Vue
-* Virtual components
-* Comprehensive API
-* Load and save layouts
-* Focus components
-* Completely themeable
-* Works in modern browsers (Firefox, Chrome)
-* Responsive design
+## Architecture
 
-## Development
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-Except for simple bug-fixes, commits should go into the `dev` branch, which will become version 3.0.  The `dev` branch is quite unstable (and not backwards compatible), but should hopefully stabilize soon.
+## Install
 
-## Installation
-See the instructions [here](docs/index.md#installation--usage).
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
-## More information
+```bash
+git clone https://github.com/Interested-Deving-1896/golden-layout.git
+cd golden-layout
+```
 
-For more information, please refer to the [Golden Layout website](https://golden-layout.github.io/golden-layout)
+## Usage
+
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/golden-layout`](https://github.com/Interested-Deving-1896/golden-layout) and mirrored through:
+
+```
+Interested-Deving-1896/golden-layout  ──►  OpenOS-Project-OSP/golden-layout  ──►  OpenOS-Project-Ecosystem-OOC/golden-layout
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+<!-- License not detected — add a LICENSE file to this repo. -->
+<!-- AI:end:license -->
